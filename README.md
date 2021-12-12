@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @MILLENIUMGOAL
+- 👀 I’m interested in creating webpages and learning how to cde more ...
+- 🌱 I’m currently learning web programs and python  ...
+- �Reach me via milleniumgoals@outlook.com ...
+
+<!---
+MILLENIUMGOAL/MILLENIUMGOAL is a ✨ special ✨ repository because its `README.md` (milleniummg) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
